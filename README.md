@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="280" src="https://avatars1.githubusercontent.com/u/8192412?s=460&v=4" alt="logo">
+  <img width="280" src="http://pic32.nipic.com/20130813/3347542_160503703000_2.jpg" alt="logo">
 </p>
 
 ## Target
