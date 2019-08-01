@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /user.jpeg
+heroImage: /avatar.png
 actionText: Let`s Go →
 actionLink: /zh/standard/Start.html
 sidebarDepth: 2
